@@ -4,8 +4,8 @@ Highlights from my information design work.
 <br />
 
 ```
-My information design experience made me a generalist of communication in many mediums. 🌎
-Words and pictures are my tools. 🎨 🖍 
+My design experience made me a generalist of communication in many mediums. 🌎
+Words and pictures are my tools... 🎨 🖍 
 Projects as varied as museums, workbooks, and infographics are the final result. 🙌  
 ```
 
@@ -28,9 +28,9 @@ Projects as varied as museums, workbooks, and infographics are the final result.
 I conceptualized, wrote, and designed a digital workbook that walks online daters
 through the process of writing a dating app profile.
 
-• Maintained a conversational and relatable tone along with clear, informative instructions.
-• Crafted the copy, structure, and visual design to work together seamlessly.
-• Conducted user tests at various stages of development.
+* Maintained a conversational and relatable tone along with clear, informative instructions.
+* Crafted the copy, structure, and visual design to work together seamlessly.
+* Conducted user tests at various stages of development.
 
 🔍 [See more details on my website.](https://alexlogsdon.com/Dating-Profiles-for-Humans/)
 
