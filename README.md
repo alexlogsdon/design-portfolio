@@ -34,6 +34,8 @@ through the process of writing a dating app profile.
 
 🔍 [See more details on my website.](https://alexlogsdon.com/Dating-Profiles-for-Humans/)
 
+<br />
+
 ## Letters from Mars
 
 ![Image of museum exhibit design](/images/LettersFromMars.png)
@@ -46,6 +48,8 @@ I fully researched, wrote, and designed a hypothetical museum exhibit. It uses s
 * Integrated techniques used by history educators.
 
 🔍 [See more details on my website.](https://alexlogsdon.com/Letters-from-Mars)
+
+<br />
 
 ## Experience Narratives
 
